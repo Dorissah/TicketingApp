@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwodaApp", "OwodaApp\OwodaApp.csproj", "{2C6DD120-C3CA-4D28-959D-84FD549562C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6DD120-C3CA-4D28-959D-84FD549562C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6DD120-C3CA-4D28-959D-84FD549562C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6DD120-C3CA-4D28-959D-84FD549562C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6DD120-C3CA-4D28-959D-84FD549562C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {276A09D0-01A1-4A55-B222-43E4CC7806F9}
+	EndGlobalSection
+EndGlobal
